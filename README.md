@@ -1,9 +1,10 @@
-Proyecto Cotizacion de Criptomonedas
+# Proyecto Cotizacion de Criptomonedas
 
-Proyecto Creado con react, vite y styled para los componentes.
-Consume la API de <a href="https://min-api.cryptocompare.com/documentation?key=Price&cat=multipleSymbolsFullPriceEndpoint" target="_blank">CryptoCompare</a> para consultar los precios, fechas, etc de las criptomonedas
+Proyecto Creado con react, vite y styled para los componentes. Consume la API de [CryptoCompare](http://https://min-api.cryptocompare.com/documentation?key=Price&cat=multipleSymbolsFullPriceEndpoint "CryptoCompare") para consultar los precios, fechas, etc de las criptomonedas.
 
-Puede probar la aplicacion mediante este link: consulta-cripto.netlify.app
+Puede probar la aplicacion haciendo[ Click aquí](consulta-cripto.netlify.app " click aqui") 
+
+------------
 
 Instalación
 ```
